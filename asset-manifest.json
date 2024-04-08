@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11bad20e.css",
+    "main.js": "/static/js/main.1c42c581.js",
+    "static/js/453.801d6482.chunk.js": "/static/js/453.801d6482.chunk.js",
+    "static/media/feed.jpg": "/static/media/feed.d2bbea0822a8fec0f303.jpg",
+    "static/media/your-background-image-url.jpg": "/static/media/your-background-image-url.c0f81735261549f8a0d6.jpg",
+    "static/media/sunset.jpg": "/static/media/sunset.20dea7430acf0efbcd80.jpg",
+    "static/media/Union.png": "/static/media/Union.f8efb278d3edf61c3cee.png",
+    "index.html": "/index.html",
+    "main.11bad20e.css.map": "/static/css/main.11bad20e.css.map",
+    "main.1c42c581.js.map": "/static/js/main.1c42c581.js.map",
+    "453.801d6482.chunk.js.map": "/static/js/453.801d6482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11bad20e.css",
+    "static/js/main.1c42c581.js"
+  ]
+}
